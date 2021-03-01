@@ -1,4 +1,4 @@
-# Bootstrap-POS-Web-Applicatio
+# Bootstrap-POS-Web-Application
 ![2021-02-27](https://user-images.githubusercontent.com/73925625/109375749-247dcc00-78e5-11eb-991c-e1543b56fc6d.png)
 
 # save customer form
